@@ -21,4 +21,4 @@
 
 
 ## Как связаться со мной:
-<a href="https://www.youtube.com/watch?v=lck_kqJJyHA&ab_channel=SweetCoder"><img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>
+<a href="https://t.me/fraaylll"><img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>
