@@ -1,24 +1,33 @@
-## Привет, меня зовут Андрей!
+# Привет меня зовут Андрей!
 
+*Я  full-stack разработчик, который умеет создавать веб-приложения с использованием C# для backend и React JS для frontend.
+Умею работать с базами данных, как с реляционными так и нет.
+Умею создавать REST API и работать с ними.
+Я готов учиться и развиваться в области веб-разработки, 
+и стремлюсь к получению опыта.
+Понимаю, как важно создавать качественный код и стремлюсь к этому.*
+# Навыки и инструменты backend 
+<img align="left"  alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="left" alt=".Net" width="35px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/>
+<img align="left"  alt="postgresql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img align="left"  alt="mongodb" width="45px" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"/> 
+<img align="left"  alt="aspnet" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
+</br>
 
-### Я backend web developer
+# Навыки и инструменты frontend
+<img  align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="react" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left"  alt="redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
+<img align="left"  alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> 
+<img align="left"  alt="bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+</br></br></br>
 
-Я люблю 
-- 🔧Программирование
-- 📐Изучать что-то новое
-- 📈 Развиваться и совершенствоваться
-### Навыки и инструменты
-<img align="left" alt=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/>
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
-<img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/>
-И еще много чего
-
+## Дополнительные навыки
+Умею писать на таких языках как: Java, C/C++. </br>
+Работал с Spring, WPF, Android studio. </br>
+Умею пользоваться на базовом уровне linux. </br>
 
 ## Как связаться со мной:
-<a href="https://t.me/fraaylll"><img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>
+<a href="https://t.me/fraaylll"><img   width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>   <a href="https://vk.com/fraaylll"> <img   width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png"/></a>
+
+<img src="https://leetcode.card.workers.dev/ryabokon_01?theme=default&font=baloo&extension=activity">
